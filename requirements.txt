@@ -14,7 +14,7 @@ django-filter==2.4.0
 django==3.2.13
 djangorestframework-simplejwt==4.7.2
 djangorestframework==3.12.4
-drf-spectacular==0.17.2
+drf-spectacular==0.22.0
 importlib-resources==5.7.1; python_version < '3.9'
 inflection==0.5.1; python_version >= '3.5'
 jsonschema==4.4.0; python_version >= '3.7'
