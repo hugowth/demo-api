@@ -13,7 +13,7 @@ django-environ==0.4.5
 django-filter==2.4.0
 django==3.2.13
 djangorestframework-simplejwt==4.7.2
-djangorestframework==3.12.4
+djangorestframework==3.13.1
 drf-spectacular==0.22.0
 importlib-resources==5.7.1; python_version < '3.9'
 inflection==0.5.1; python_version >= '3.5'

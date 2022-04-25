@@ -36,7 +36,7 @@ django==3.2.13
 
 djangorestframework-simplejwt==4.7.2
 
-djangorestframework==3.12.4
+djangorestframework==3.13.1
 
 drf-spectacular==0.22.0
 
