@@ -9,7 +9,7 @@
 # requirements. To emit only development requirements, pass "--dev-only".
 
 -i https://pypi.org/simple
-asgiref==3.6.0; python_version >= '3.7'
+asgiref==3.7.0; python_version >= '3.7'
 attrs==23.1.0; python_version >= '3.7'
 autopep8==2.0.2
 backports.zoneinfo==0.2.1; python_version < '3.9'
