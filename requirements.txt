@@ -6,7 +6,7 @@
 #
 
 -i https://pypi.org/simple
-asgiref==3.6.0; python_version >= '3.7'
+asgiref==3.7.1; python_version >= '3.7'
 attrs==23.1.0; python_version >= '3.7'
 backports.zoneinfo==0.2.1; python_version < '3.9'
 django-cors-headers==4.0.0
