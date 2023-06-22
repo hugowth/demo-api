@@ -4,21 +4,21 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
-django-filter = "*"
-djangorestframework = "*"
-markdown = "*"
-drf-spectacular = "*"
+django = "==4.2.2"
+django-filter = "==23.2"
+djangorestframework = "==3.14.0"
+markdown = "==3.4.3"
+drf-spectacular = "==0.26.3"
 django-environ = "==0.10.0"
-djangorestframework-simplejwt = "*"
-pillow = "*"
-django-cors-headers = "*"
+djangorestframework-simplejwt = "==5.2.2"
+pillow = "==9.5.0"
+django-cors-headers = "==4.1.0"
 
 [dev-packages]
-pycodestyle = "*"
-flake8 = "*"
-autopep8 = "*"
-factory-boy = "*"
+pycodestyle = "==2.10.0"
+flake8 = "==6.0.0"
+autopep8 = "==2.0.2"
+factory-boy = "==3.2.1"
 
 [requires]
-python_version = "3.8"
+python_version = "3.11.4"

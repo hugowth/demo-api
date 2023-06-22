@@ -4,7 +4,7 @@
 
 ### Prerequisite
 
-- python 3.8
+- python 3.11.4
 
 ### Install python dependencies
 
@@ -33,8 +33,6 @@ create `.env`  in root directory, you can see the `.env.sample`
 
 ```bash
 python manage.py runserver
-# or
-pipenv run server
 ```
 
 It will start a local server at `localhost:8000` and you can access the API
