@@ -19,7 +19,7 @@ django-filter==23.2
 django==4.2.1
 djangorestframework-simplejwt==5.2.2
 djangorestframework==3.14.0
-drf-spectacular==0.26.2
+drf-spectacular==0.26.3
 factory-boy==3.2.1
 faker==18.9.0; python_version >= '3.7'
 flake8==6.0.0
