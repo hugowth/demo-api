@@ -19,7 +19,7 @@ boto3 = "==1.28.5"
 pycodestyle = "==2.10.0"
 flake8 = "==6.0.0"
 autopep8 = "==2.0.2"
-factory-boy = "==3.2.1"
+factory-boy = "==3.3.0"
 
 [requires]
 python_version = "3.11.4"
