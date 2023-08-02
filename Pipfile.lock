@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8b31930d05974375dcc43514ceabf4a00acecdcf30bc03091f3fad52bbdd5f9f"
+            "sha256": "17825e7ab5bd21dbd1b5a2917ae1c1507d874f016bc161cb0b41d520802a307d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -34,19 +34,19 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:84b7952858e9319968b0348d9894a91a6bb5f31e81a45c68044d040a12362abe",
-                "sha256:a6e711e0b6960c3a5b789bd30c5a18eea7263f2a59fc07f85efa5e04804e49d2"
+                "sha256:90f7cfb5e1821af95b1fc084bc50e6c47fa3edc99f32de1a2591faa0c546bea7",
+                "sha256:bca0526f819e0f19c0f1e6eba3e2d1d6b6a92a45129f98c0d716e5aab6d9444b"
             ],
             "index": "pypi",
-            "version": "==1.28.15"
+            "version": "==1.28.17"
         },
         "botocore": {
             "hashes": [
-                "sha256:b3a0f787f275711875476cbe12a0123b2e6570b2f505e2fa509dcec3c5410b57",
-                "sha256:b46d1ce4e0cf42d28fdf61ce0c999904645d38b51cb809817a361c0cec16d487"
+                "sha256:396459065dba4339eb4da4ec8b4e6599728eb89b7caaceea199e26f7d824a41c",
+                "sha256:6ac34a1d34aa3750e78b77b8596617e2bab938964694d651939dba2cbde2c12b"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.31.15"
+            "version": "==1.31.17"
         },
         "django": {
             "hashes": [
@@ -122,11 +122,11 @@
         },
         "jsonschema": {
             "hashes": [
-                "sha256:971be834317c22daaa9132340a51c01b50910724082c2c1a2ac87eeec153a3fe",
-                "sha256:fb3642735399fa958c0d2aad7057901554596c63349f4f6b283c493cf692a25d"
+                "sha256:4c10200b4b184a348dc92beb554a30280db17ad69b00a2de250d4a842fe3f0b0",
+                "sha256:c6b4c2b83389e504717f2392adbc74bc9ed07341ae0ced18dde132f3a7f70a5b"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==4.18.4"
+            "version": "==4.18.5"
         },
         "jsonschema-specifications": {
             "hashes": [
