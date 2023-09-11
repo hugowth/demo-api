@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3cdaa89e486d26821585f37fb8de6e2bc7f657c0d650976eb77ebb9aa6ca298b"
+            "sha256": "e45f2f1485b3c818ec0d41bfc828b211fdb7e58a6277d73e5bc7456e19d623a7"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -34,19 +34,19 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:4cd3e96900fb50bddc9f48007176c80d15396d08c5248b25a41220f3570e014f",
-                "sha256:c0211a3e830432851c73fa1e136b14dbb6d02b5c9a5e1272c557e63538620b88"
+                "sha256:c53c92dfe22489ba31e918c2e7b59ff43e2e778bd3d3559e62351a739382bb5c",
+                "sha256:eea3b07e0f28c9f92bccab972af24a3b0dd951c69d93da75227b8ecd3e18f6c4"
             ],
             "index": "pypi",
-            "version": "==1.28.43"
+            "version": "==1.28.44"
         },
         "botocore": {
             "hashes": [
-                "sha256:b4a3a1fcf75011351e2b0d3eb991f51f8d44a375d3e065f907dac67db232fc97",
-                "sha256:d8b0c41c8c75d82f15fee57f7d54a852a99810faacbeb9d6f3f022558a2c330e"
+                "sha256:83d61c1ca781e6ede19fcc4d5dd73004eee3825a2b220f0d7727e32069209d98",
+                "sha256:84f90919fecb4a4f417fd10145c8a87ff2c4b14d6381cd34d9babf02110b3315"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.31.43"
+            "version": "==1.31.44"
         },
         "django": {
             "hashes": [
@@ -456,11 +456,11 @@
         },
         "faker": {
             "hashes": [
-                "sha256:1a173fdebf35d4b49683c02066a877cc42dd59aed93c718b68a88ee8db1da4ed",
-                "sha256:63c56979160d232968348945ba6f847bb18b1023dfcb0fdb133560c0f0528b5d"
+                "sha256:5d6b7880b3bea708075ddf91938424453f07053a59f8fa0453c1870df6ff3292",
+                "sha256:64c8513c53c3a809075ee527b323a0ba61517814123f3137e4912f5d43350139"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==19.5.0"
+            "version": "==19.6.1"
         },
         "flake8": {
             "hashes": [
