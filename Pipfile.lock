@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b4cb4de96c7e1cfe4f5c9a365a2cbdaf85034f5510277a656a2f4697e9929772"
+            "sha256": "83d4e4d479dbcbe0a93ceca7e5ebf6017c8cc73d37c77ec9cf08d16bf4acedbe"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -34,20 +34,20 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:0dfa2fc96ccafce4feb23044d6cba8b25075ad428a0c450d369d099c6a1059d2",
-                "sha256:148eeba0f1867b3db5b3e5ae2997d75a94d03fad46171374a0819168c36f7ed0"
+                "sha256:65d052ec13197460586ee385aa2d6bba0e7378d2d2c7f3e93c044c43ae1ca782",
+                "sha256:94218aba2feb5b404b665b8d76c172dc654f79b4c5fa0e9e92459c098da87bf4"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==1.28.62"
+            "version": "==1.28.63"
         },
         "botocore": {
             "hashes": [
-                "sha256:272b78ac65256b6294cb9cdb0ac484d447ad3a85642e33cb6a3b1b8afee15a4c",
-                "sha256:be792d806afc064694a2d0b9b25779f3ca0c1584b29a35ac32e67f0064ddb8b7"
+                "sha256:6e582c811ea74f25bdb490ac372b2645de4a60286b42ddd8c69f3b6df82b6b12",
+                "sha256:cb9db5db5af865b1fc2e1405b967db5d78dd0f4d84e5dc1974e082733c1034b7"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.31.62"
+            "version": "==1.31.63"
         },
         "django": {
             "hashes": [
@@ -468,11 +468,11 @@
         },
         "faker": {
             "hashes": [
-                "sha256:85468e16d4a9a8712bfdb98ba55aaf17c60658266a76958d099aee6a18c0a6c5",
-                "sha256:d75401c631a991b32d3595f26250f42c007cc32653ac3e522b626f3d80770571"
+                "sha256:63da90512d0cb3acdb71bd833bb3071cb8a196020d08b8567a01d232954f1820",
+                "sha256:f321e657ed61616fbfe14dbb9ccc6b2e8282652bbcfcb503c1bd0231ff834df6"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==19.9.0"
+            "version": "==19.10.0"
         },
         "flake8": {
             "hashes": [
