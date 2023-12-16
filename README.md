@@ -4,7 +4,7 @@
 
 ### Prerequisite
 
-- python 3.11.4
+- python 3.12.0
 
 ### Install python dependencies
 
