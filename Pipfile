@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "==5.0.1"
+django = "==5.0.2"
 django-filter = "==23.5"
 djangorestframework = "==3.14.0"
 markdown = "==3.5.2"
