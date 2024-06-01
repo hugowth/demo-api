@@ -8,4 +8,14 @@ updates:
   - package-ecosystem: "pip" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
-      interval: "daily"
+      interval: "weekly"
+      day: 'monday'
+      time: '09:00'
+      timezone: 'Canada/Eastern'
+    target-branch: 'master'
+    labels:
+      - 'build'
+    open-pull-requests-limit: 10
+    commit-message:
+      prefix: 'build'
+      include: 'scope'
